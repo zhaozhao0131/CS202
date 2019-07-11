@@ -1,2 +1,2 @@
 # CS202
-java program for CS202
+programs for CS202
